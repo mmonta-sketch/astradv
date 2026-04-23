@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Eight-point star mark — Option B, transparent background -->
+  <!-- N point -->
+  <polygon points="100,8 112,70 100,62 88,70" fill="#9b1c2e"/>
+  <!-- S point -->
+  <polygon points="100,192 112,130 100,138 88,130" fill="#7a1422"/>
+  <!-- E point -->
+  <polygon points="192,100 130,112 138,100 130,88" fill="#9b1c2e"/>
+  <!-- W point -->
+  <polygon points="8,100 70,112 62,100 70,88" fill="#7a1422"/>
+  <!-- NE point -->
+  <polygon points="163,37 128,86 120,78 134,68" fill="#b52236"/>
+  <!-- NW point -->
+  <polygon points="37,37 72,86 80,78 66,68" fill="#8a1828"/>
+  <!-- SE point -->
+  <polygon points="163,163 128,114 120,122 134,132" fill="#8a1828"/>
+  <!-- SW point -->
+  <polygon points="37,163 72,114 80,122 66,132" fill="#b52236"/>
+  <!-- Central octagon -->
+  <polygon points="100,62 138,100 100,138 62,100" fill="#9b1c2e"/>
+  <!-- Inner facets -->
+  <polygon points="100,62 138,100 100,100" fill="#7a1422" opacity="0.6"/>
+  <polygon points="100,62 100,100 62,100" fill="#c02840" opacity="0.5"/>
+  <polygon points="62,100 100,100 100,138" fill="#7a1422" opacity="0.6"/>
+  <polygon points="100,100 138,100 100,138" fill="#b52236" opacity="0.5"/>
+  <!-- Center jewel -->
+  <circle cx="100" cy="100" r="6" fill="#f7f3ec" opacity="0.8"/>
+  <circle cx="100" cy="100" r="2.5" fill="#9b1c2e"/>
+</svg>
